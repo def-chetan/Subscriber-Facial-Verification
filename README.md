@@ -17,7 +17,7 @@
 
 ## 📌 Overview
 
-**VeriFace-CV** solves a challenging real-world **Cross-Domain Computer Vision** problem: verifying a person's identity by matching a **low-resolution, aged, or ink-stamped physical ID card photograph** against a **live, unconstrained webcam frame** in real time.
+This system is aimed to solve a challenging real-world **Cross-Domain Computer Vision** problem: verifying a person's identity by matching a **low-resolution, aged, or ink-stamped physical ID card photograph** against a **live, unconstrained webcam frame** in real time.
 
 Traditional manual counter verification suffers from human fatigue, lookalike spoofing, obscured facial features from official stamps, and zero digital audit trails. **VeriFace-CV** replaces subjective human guessing with a **4-stage modular Computer Vision pipeline** that localizes facial landmarks, performs affine geometric alignment, archives the cropped ID facial Region of Interest (ROI), and computes 512-dimensional craniofacial embeddings in **ArcFace** hypersphere space.
 
