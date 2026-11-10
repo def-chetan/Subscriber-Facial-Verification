@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ VeriFace-CV: Cross-Domain Biometric Identity & Document Verification Engine
+# 🛡️ Cross-Domain Biometric Identity & Document Verification Engine
 
 **An End-to-End Computer Vision Pipeline for 1:1 Unconstrained Facial Verification, Spatial ROI Extraction, and Automated e-KYC Auditing**
 
