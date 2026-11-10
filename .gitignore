@@ -1,0 +1,35 @@
+
+# Ignore all images inside img/ except .gitkeep
+img/*
+!img/.gitkeep
+
+# Ignore extracted face crops except .gitkeep
+extracted_faces/*
+!extracted_faces/.gitkeep
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node / Frontend dependencies & build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.vite-temp/
+
+# macOS & IDE files
+.DS_Store
+__MACOSX/
+._*
+.vscode/
+.idea/
+
+# Environment variables & temp files
+.env
+.env.local
+temp_*
+*.tmp
