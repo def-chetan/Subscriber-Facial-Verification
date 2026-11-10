@@ -33,3 +33,4 @@ __MACOSX/
 .env.local
 temp_*
 *.tmp
+environment.yml

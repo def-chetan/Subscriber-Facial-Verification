@@ -1,0 +1,16 @@
+# Core computer-vision and biometric processing
+deepface
+opencv-python
+numpy
+pillow
+mediapipe
+retina-face
+tf-keras
+
+# FastAPI web backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Streamlit dashboard
+streamlit
